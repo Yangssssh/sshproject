@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="hibernate">
+    <CLASSES>
+      <root url="file://D:/java.jar/ssh/hibernate" />
+      <root url="file://D:/java.jar/ssh/spring-aop" />
+      <root url="file://D:/java.jar/ssh/spring-core" />
+      <root url="file://D:/java.jar/ssh/spring-orm" />
+      <root url="file://D:/java.jar/ssh/spring-web" />
+      <root url="file://D:/java.jar/ssh/struts" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/java.jar/ssh/hibernate" recursive="false" />
+    <jarDirectory url="file://D:/java.jar/ssh/spring-aop" recursive="false" />
+    <jarDirectory url="file://D:/java.jar/ssh/spring-core" recursive="false" />
+    <jarDirectory url="file://D:/java.jar/ssh/spring-orm" recursive="false" />
+    <jarDirectory url="file://D:/java.jar/ssh/spring-web" recursive="false" />
+    <jarDirectory url="file://D:/java.jar/ssh/struts" recursive="false" />
+  </library>
+</component>
